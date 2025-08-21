@@ -2,6 +2,10 @@
 
 A real-time chat application inspired by Discord, built with MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.io.
 
+## Screenshot
+
+![Discord Clone Screenshot](screenshot/Screenshot%20(181).png)
+
 ## Features
 
 - User authentication (Register/Login)

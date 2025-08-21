@@ -1,0 +1,58 @@
+
+.user-panel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  background-color: #292b2f;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  background-color: #7289da;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.user-details {
+  line-height: 1.2;
+}
+
+.username {
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.user-id {
+  color: #b9bbbe;
+  font-size: 12px;
+}
+
+.user-actions {
+  display: flex;
+  align-items: center;
+}
+
+.user-actions i {
+  color: #b9bbbe;
+  font-size: 18px;
+  cursor: pointer;
+  margin-left: 12px;
+  transition: color 0.2s;
+}
+
+.user-actions i:hover {
+  color: #fff;
+}
